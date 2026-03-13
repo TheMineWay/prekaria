@@ -1,0 +1,1 @@
+Feature responsible of reading data from origins and returning it in a standard format
